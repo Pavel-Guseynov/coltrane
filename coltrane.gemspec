@@ -33,7 +33,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency 'dry-monads'
-  spec.add_runtime_dependency 'gambiarra'
   spec.add_runtime_dependency 'paint'
   spec.add_runtime_dependency 'color'
   spec.add_runtime_dependency 'activesupport'

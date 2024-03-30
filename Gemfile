@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+gem 'gambiarra', github: 'Pavel-Guseynov/gambiarra'
+
 group :test, :development do
   gem 'pry'
   gem 'pry-byebug'

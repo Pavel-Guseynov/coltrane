@@ -36,6 +36,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'paint'
   spec.add_runtime_dependency 'color'
   spec.add_runtime_dependency 'activesupport'
+  spec.add_runtime_dependency 'ostruct'
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake"
 end
